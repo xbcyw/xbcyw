@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **xbcyw/xbcyw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+<p>
+| ![xbcyw GitHub stats](https://github-readme-stats.vercel.app/api?username=xbcyw&theme=radical&show_icons=true) | ![xbcyw GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xbcyw&layout=compact&theme=blue-green&hide_border=true) | 
+| ------------- | ------------- |
+</p>
+
+<br />
+
+
+
